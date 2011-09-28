@@ -17,9 +17,7 @@ the box, Hit "Install". Note this adds the plugin to your web page localStorge, 
 4. Hit the back button to return to http://blog.johnjbarton.com:8080/navigate/table.html#/file/D/?depth=1
 5. Navigate to a .js file
 6. In the tall gray box on the left side you will see a dark gray
-arrow. Use it to select "Nonymous Structural Outline".
-
-Due to a [bug](https://bugs.eclipse.org/bugs/show_bug.cgi?id=359160) you have to reselect the outliner for each file. 
+arrow. Use it to select "Nonymous JavaScript Outline".
 
 Another demo page shows a number of examples all on one page: 
 [http://blog.johnjbarton.com:8080/file/B/lib/nonymous/index.html](http://blog.johnjbarton.com:8080/file/B/lib/nonymous/index.html). 
